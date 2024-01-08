@@ -1,0 +1,74 @@
+{
+	"itemsToBeSearched": [
+		{
+			"itemName": "bencao do ferreiro",
+			"itemPrice": 1999999
+		},
+		{
+			"itemName": "chapeu de maestro",
+			"itemPrice": 500000000
+		},
+		{
+			"itemName": "sacola de cash",
+			"itemPrice": 900000
+		},
+		{
+			"itemName": "alma sombria",
+			"itemPrice": 5000
+		},
+		{
+			"itemName": "artilheiro wootan ilusional",
+			"itemPrice": 100000000,
+			"isCard": true,
+			"originalCard": true
+		},
+		{
+			"itemName": "pergaminho de armadura +9",
+			"itemPrice": 80000000
+		},
+		{
+			"itemName": "pergaminho de arma +9",
+			"itemPrice": 50000000
+		},
+		{
+			"itemName": "azul concentrada",
+			"itemPrice": 10000
+		},
+		{
+			"itemName": "ativador de erva azul",
+			"itemPrice": 10000
+		},
+		{
+			"itemName": "ativador de erva vermelha",
+			"itemPrice": 10000
+		},
+		{
+			"itemName": "pedra ilusional",
+			"itemPrice": 2000000
+		},
+		{
+			"itemName": "carta Besouro-Ladrão Dourado",
+			"itemPrice": 500000000,
+			"isCard": true,
+			"originalCard": true
+		},
+		{
+			"itemName": "carta Kiel",
+			"itemPrice": 500000000,
+			"isCard": true,
+			"originalCard": true
+		},
+		{
+			"itemName": "carta Bispo decadente",
+			"itemPrice": 500000000,
+			"isCard": true,
+			"originalCard": true
+		},
+		{
+			"itemName": "carta Belzebu",
+			"itemPrice": 100000000,
+			"isCard": true,
+			"originalCard": true
+		}
+	]
+}

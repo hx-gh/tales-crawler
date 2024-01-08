@@ -1,0 +1,2 @@
+bencao do ferreiro:1999999:false
+carta Besouro-Ladrão Dourado:500000000:true
